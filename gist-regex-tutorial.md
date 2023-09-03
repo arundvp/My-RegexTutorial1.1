@@ -606,4 +606,6 @@ Follow me on Github at [Arun Ayyasamy](https://github.com/arundvp). Additional q
 
 GitHub Repository:[GitHub Repository: Click Here](https://github.com/arundvp/My-RegexTutorial1.1)
 
+GitHub Gist Reference:[GitHub Gist Reference: Click Here](https://gist.github.com/arundvp/188d92fefda9bb7546ee52a9ecf7aad6)
+
 © 2023 [Arun Ayyasamy](https://github.com/arundvp). Confidential and Proprietary. All Rights Reserved.
